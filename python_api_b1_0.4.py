@@ -12,8 +12,8 @@ from texttable import Texttable
 
 #api_key = os.environ.get('binance_api')
 #api_secret = os.environ.get('binance_secret')
-api_key = 'QW9tPHUIaHpVSwLwQY2zTs9iwdjuyxyNIVqHo8xt87GOOQHeEElZfJWzqnyKrSCq'
-api_secret = 'ex0XrBWlIzyEV0VwhOuyITYgqtoyW8LryqstlOi2xyFIKc1KLDsfaoF3BWkOwB5w'
+api_key = ''
+api_secret = ''
 
 def main(argv):
  # load client
