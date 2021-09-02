@@ -6,10 +6,10 @@ Personal Project under development.
 No warranty or support.
 ====================================
 
--h              help
--o BTCUSDT      open Orders
--s ETHusd       Symbol info
--w              wallet info
+-h              help <br>
+-o BTCUSDT      open Orders <br>
+-s ETHusd       Symbol info <br>
+-w              wallet info <br>
 
 
 Prerequirements: <br>
