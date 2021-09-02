@@ -7,9 +7,9 @@ No warranty or support.
 ====================================
 
 -h              help <br>
--o BTCUSDT      open Orders <br>
--s ETHusd       Symbol info <br>
--w              wallet info <br>
+-o BTCUSDT      (show open Orders) <br>
+-s ETHusd       (Symbol info) <br>
+-w              (Wallet info) <br>
 
 
 Prerequirements: <br>
