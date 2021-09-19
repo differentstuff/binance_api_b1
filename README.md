@@ -15,7 +15,7 @@ No warranty or support.<br>
 -h              help <br>
 -o BTCUSDT      (show open Orders for symbol) <br>
 -w              (show Wallet info) <br>
--t BTCUSDT      (starts Trailing Stop = not yet done)<br>
+-t BTCUSDT      (starts Trailing Stop = not yet reliant)<br>
 
 
 Prerequirements: <br>
