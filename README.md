@@ -7,10 +7,10 @@ What is done and working:<br>
  Can display Wallet info (-w)<br>
  Can display open Orders (-o SYMBOL)<br>
  
-====================================
+====================================<br>
 Personal Project under development.<br>
 No warranty or support.<br>
-====================================
+====================================<br>
 
 -h              help <br>
 -o BTCUSDT      (show open Orders for symbol) <br>
